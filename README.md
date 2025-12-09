@@ -318,3 +318,5 @@ Options:
   -tw, --telegram-web-hook <telegramWebHook>    Telegram web hook (env: TGBOT_WEBHOOK)
   -h, --help                                    display help for command
 ```
+
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
